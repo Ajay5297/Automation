@@ -5,6 +5,8 @@
     <classes>
       <class name="Sequesncail.Test3"/>
       <class name="Sequesncail.Test2"/>
+      <class name="Assertions.Test2"/>
+      <class name="Assertions.Test1"/>
       <class name="Sequesncail.Sequencial"/>
     </classes>
   </test> <!-- Test -->
